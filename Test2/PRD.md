@@ -268,9 +268,3 @@ Summary Generator (Claude API 호출)
 | **Graceful Degradation** | 오류 시 전체 중단 없이 해당 기능만 미표시 |
 | **RICE Score** | Reach × Impact × Confidence ÷ Effort |
 | **DVF** | Desirability + Viability + Feasibility |
-
-### 참고 문서
-- Product Idea Assessment Guide (Google Drive: `11sPz2NUUfuIBzWUQ76J-cjq1BEAWdnvIaLcbLr72zMU`)
-- PRD Review Guide (Google Drive: `1abFQ6IDCEyB1GP0WTSkwKQHeB_iQL5wlZkSEnxdvhYU`)
-- PRD Template (Google Drive: `16YxSymNoB5M5YKkPLzB_sQorl7wIuTzH4VqKQU-99UI`)
-- Anthropic Claude API: https://docs.anthropic.com
