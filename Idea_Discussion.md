@@ -1,4 +1,8 @@
-Claude에서 프로젝트 구상을 위한 첫 프롬프트 예시입니다.
+Claude Web에서 프로젝트 구상을 위해 대화한 내용입니다.
+
+-------------------
+
+**첫 프롬프트 예시입니다.**
 
 #Goal
 - Claude Code로 Product Manager를 위한 "AI PM Peer" Agent를 만들거야
@@ -19,9 +23,9 @@ Claude에서 프로젝트 구상을 위한 첫 프롬프트 예시입니다.
 1. 위 작업을 위해 VS Code for Claude Code 환경에서 어떻게 프로젝트를 시작해야하는지 상세하게 가이드를 제공해(VS Code 및 Claude Code Extension은 설치된 상태야)
 2. 위 구성안을 바탕으로 Claude Code에서 프로젝트 시작을 위한 지침을 제안해줘
 
--------
+-------------------
 
-답변 예시입니다.
+**답변 예시입니다**
 
 # AI PM Peer Agent 구축 가이드
 
