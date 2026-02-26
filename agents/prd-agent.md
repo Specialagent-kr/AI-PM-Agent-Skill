@@ -124,17 +124,6 @@ PM이 PRD를 체계적으로 작성하고, 6가지 기준으로 품질을 검증
 
 ---
 
-## Google Drive 리소스
-
-| 문서 | ID | 용도 |
-|------|----|------|
-| PRD Review Guide | `1abFQ6IDCEyB1GP0WTSkwKQHeB_iQL5wlZkSEnxdvhYU` | 검토 모드 참조 |
-| PRD Template | `16YxSymNoB5M5YKkPLzB_sQorl7wIuTzH4VqKQU-99UI` | 문서화 모드 참조 |
-
-**접근:** `mcp__google-drive__getGoogleDocContent`
-
----
-
 ## 검토 6기준 요약
 
 | 기준 | 평가 포인트 |
